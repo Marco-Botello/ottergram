@@ -52,9 +52,7 @@ a{
     display: flex;
     flex-direction: column;
 }
-.thumbnail-item + .thumbnail-item { /* if thumbnail item is next to another thumbnail item */
-    margin-top: 10px;
-}
+
 .thumbnail-item{
     display: inline-block;
     min-width: 120px;
